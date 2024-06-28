@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 # Articles in peer-reviewed journals
-* contributed equally 
+\* contributed equally 
 ## 2020 
 ![background](/files/sars_cov2_israel_header.png)
 
