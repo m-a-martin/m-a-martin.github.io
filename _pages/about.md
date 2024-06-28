@@ -12,5 +12,5 @@ I am currently a post-doctoral research fellow in [Dr. M. Kate Grabowski](https:
 
 # News
 ## 2024
-- My work on the within- and between-host dynamics of influenza A virus defective viral genomes is now out in Virus Evolution \[PDF\]. This work was (mostly) compmleted during my doctoral research in [Dr. Katia Koelle](https://scholarblogs.emory.edu/koellelab/)'s group. 
+- My work on the within- and between-host dynamics of influenza A virus defective viral genomes is now out in (Virus Evolution)[https://doi.org/10.1093/ve/veae042] (\[PDF\])[https://m-a-martin.github.com/files/influenza_dvgs.pdf]. This work was (mostly) compmleted during my doctoral research in [Dr. Katia Koelle](https://scholarblogs.emory.edu/koellelab/)'s group. 
 - I finally found the motivation to make a professional website. Thakn you [Clif McKee](https://clifmckee.github.io) for the nudge. 
