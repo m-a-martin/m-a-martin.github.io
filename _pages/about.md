@@ -18,5 +18,5 @@ Pior to my doctoral training I earned a master's in epidemiology at the Harvard 
 # News
 ## 2024
 - My work on the within- and between-host dynamics of influenza A virus defective viral genomes is now out in [Virus Evolution](https://doi.org/10.1093/ve/veae042) [\[PDF\]](https://m-a-martin.github.io/files/influenza_dvgs.pdf). This work was (mostly) compmleted during my doctoral research in [Dr. Katia Koelle](https://scholarblogs.emory.edu/koellelab/)'s group. 
-- I finally found the motivation to make a professional website. Thakn you [Clif McKee](https://clifmckee.github.io) for the nudge. 
+- I finally found the motivation to make a professional website. Thank you [Clif McKee](https://clifmckee.github.io) for the nudge. 
 
