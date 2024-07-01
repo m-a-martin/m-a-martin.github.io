@@ -17,7 +17,7 @@ author_profile: true
 
 ---
  <span style="color:steelblue">Martin, M.A.</span> , Berg, N., Koelle, K. (2023). **Influenza A genomic diversity during human infections underscores
-the strength of genetic drift and the existence of tight transmission bottlenecks**. *Virus Evolution.
+the strength of genetic drift and the existence of tight transmission bottlenecks**. *Virus Evolution*.
 [10.1093/ve/veae042](https://doi.org/10.1093/ve/veae042). \[[PDF](https://m-a-martin.github.io/files/influenza_dvg.pdf)\]
 
 ---
