@@ -12,17 +12,71 @@ author_profile: true
 
 # Articles in peer-reviewed journals
 \* contributed equally 
+
+## 2024
+---
+
+Martin, M.A., Berg, N., Koelle, K. (2023). *Influenza A genomic diversity during human infections underscores
+the strength of genetic drift and the existence of tight transmission bottlenecks*. **Virus Evolution**.
+10.1093/ve/veae042.
+
+---
+
+Farjo, M., Koelle, K., Martin, M.A., Gibson, L.L., Walden, K.K.O., Rendon, G., Fields, C.J., Alnaji, F.G.,
+Gallagher, N., Luo, C.H., Mostafa, H.H., Manabe, Y.C., Pekosz, A., Smith, R.L., McManus, D.D., Brooke, C.B. (2024). **Within-host evolutionary dynamics and tissue compartmentalization during acute SARS-CoV-2 infection**. *Journal of Virology*. 10.1128/jvi.01618-23.
+
+---
+
+Shi, T., Harris, J.D., Martin, M.A., Koelle, K. (2024). **Transmission bottleneck size estimation from de novo viral genetic variation**. *Molecular Biology and Evolution*. 10.1093/molbev/msad286.
+
+---
+##2023
+---
+
+Park, Y., Martin, M.A., Koelle, K. (2023). **Epidemiological inference for emerging viruses using segregating sites**.
+*Nature Communications*. 10.1038/s41467-023-38809-7.
+
+---
+
+Bianco, C.M., Moustafa, A.M., O’Brien, K., Martin, M.A., Read, T.D., Kreiswirth, B.N., Planet, P.J. (2023).
+**Pre-epidemic evolution of the MRSA USA300 clade and a molecular key for classification**. *Frontiers in Cellular
+and Infection Microbiology*. 10.3389/fcimb.2023.1081070.
+
+---
+## 2022
+---
+
+Koelle, K., Martin, M.A., Antia, R., Lopman, B., Dean, N.E. (2022). **The changing epidemiology of
+SARS-CoV-2**. *Science*. 10.1126/science.abm4915.
+
+---
+
+Babiker, A.∗, Martin, M.A.∗, Marvil, C., Bellman, S., Pettit III, R.A., Bradler, H.L., Sittleburg, V.D., Kunkes,
+A., Ingersoll, J., Kraft, C.S., Read, T.D., Waggoner, J., Koelle, K., Piantadosi, A. (2022). **Unrecognized introductions of SARS-CoV-2 into the state of Georgia shaped the early epidemic**. *Virus Evolution*. 10.1093/ve/veac011.
+
+---
 ## 2021
 ---
-Martin, M.A., VanInsberghe, D., Koelle, K. (2021). Insights from SARS-CoV-2 sequences. Science, 371(6528). 10.1126/science.abf3995.
+
+Martin, M.A., Koelle, K. (2021). Comment on “Genomic epidemiology of superspreading events in Austria reveals mutational dynamics and transmission properties of SARS-CoV-2.” Science Translational Medicine. 10.1126/scitranslmed.abh1803.
+
+---
+
+Martin, M.A., VanInsberghe, D., Koelle, K. (2021). **Insights from SARS-CoV-2 sequences**. *Science*, 371(6528). 10.1126/science.abf3995.
+
 ---
 ## 2020 
 ---
-Moreno, G.K.\∗, Braun, K.M.\∗, Riemersma, K.K.\∗, Martin, M.A., Halfmann, P.J., Crooks, C.M., Prall, T., Baker, D., Baczenas, J.J., Heffron, A.S., Ramuta, M., Khubbar, M., Weiler, A.M., Accola, M.A., Rehrauer, W.M., O’Connor, S.L., Safdar, N., Pepperell, C.S., Dasu, T., Bhattacharyya, S., Kawaoka, Y., Koelle, K., O’Connor, D.H., Friedrich, T.C. (2020). **Revealing fine-scale spatiotemporal differences in SARS-CoV-2 introductions and spread.** Nature Communications, 11(5558). [10.1038/s41467-020-19346-z](https://doi.org/10.1038/s41467-020-19346-z).
+
+Moreno, G.K.\∗, Braun, K.M.\∗, Riemersma, K.K.\∗, Martin, M.A., Halfmann, P.J., Crooks, C.M., Prall, T., Baker, D., Baczenas, J.J., Heffron, A.S., Ramuta, M., Khubbar, M., Weiler, A.M., Accola, M.A., Rehrauer, W.M., O’Connor, S.L., Safdar, N., Pepperell, C.S., Dasu, T., Bhattacharyya, S., Kawaoka, Y., Koelle, K., O’Connor, D.H., Friedrich, T.C. (2020). **Revealing fine-scale spatiotemporal differences in SARS-CoV-2 introductions and spread.** *Nature Communications*, 11(5558). [10.1038/s41467-020-19346-z](https://doi.org/10.1038/s41467-020-19346-z).
+
 ---
+
 ![background](/files/sars_cov2_israel_header.png)
 
 Miller, D.\*, Martin, M.A.\*, Harel, N.\*, Tirosh O.\*, Kustin, T.\*, Meir, M., Sorek, N., Gefen-Halevi, S., Amit, S., Vorontsov, O., Shaag, A., Wolf, D., Peretz, A., Shemer-Avni, Y., Roif-Kaminsky, D., Kopelman, N.M., Huppert, A., Koelle, K., Stern, A. (2020). **Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel.** *Nature Communications*, 11(5518). [10.1038/s41467-020-19248-0](https://doi.org/10.1038/s41467-020-19248-0). \[[PDF](https://m-a-martin.github.io/files/sars_cov2_israel.pdf)\]
+
 ---
 ## 2018
-Martin, M.A., Lee, R.S., Cowley, L.A., Gardy, J.L., & Hanage, W.P. (2018). Within-host Mycobacterium tuberculosis diversity and its utility for inferences of transmission. *Microbial genomics*, 4(10). [10.1099/mgen.0.000217](https://doi.org/10.1099/mgen.0.000217). \[[PDF](https://m-a-martin.github.io/files/tb_within_host.pdf)\]
+---
+Martin, M.A., Lee, R.S., Cowley, L.A., Gardy, J.L., & Hanage, W.P. (2018). **Within-host Mycobacterium tuberculosis diversity and its utility for inferences of transmission**. *Microbial genomics*, 4(10). [10.1099/mgen.0.000217](https://doi.org/10.1099/mgen.0.000217). \[[PDF](https://m-a-martin.github.io/files/tb_within_host.pdf)\]
