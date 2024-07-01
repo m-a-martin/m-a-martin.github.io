@@ -76,7 +76,7 @@ A., Ingersoll, J., Kraft, C.S., Read, T.D., Waggoner, J., Koelle, K., Piantadosi
 
 ---
 
-Moreno, G.K.\∗, Braun, K.M.\∗, Riemersma, K.K.\∗, <span style="color:steelblue">Martin, M.A.</span>, Halfmann, P.J., Crooks, C.M., Prall, T., Baker, D., Baczenas, J.J., Heffron, A.S., Ramuta, M., Khubbar, M., Weiler, A.M., Accola, M.A., Rehrauer, W.M., O’Connor, S.L., Safdar, N., Pepperell, C.S., Dasu, T., Bhattacharyya, S., Kawaoka, Y., Koelle, K., O’Connor, D.H., Friedrich, T.C. (2020). **Revealing fine-scale spatiotemporal differences in SARS-CoV-2 introductions and spread.** *Nature Communications*, 11(5558). [10.1038/s41467-020-19346-z](https://doi.org/10.1038/s41467-020-19346-z). \[[PDF](https://m-a-martin.github.io/files/sars_cov2_wisconsin.pdf)\]
+Moreno, G.K.\*, Braun, K.M.\*, Riemersma, K.K.\*, <span style="color:steelblue">Martin, M.A.</span>, Halfmann, P.J., Crooks, C.M., Prall, T., Baker, D., Baczenas, J.J., Heffron, A.S., Ramuta, M., Khubbar, M., Weiler, A.M., Accola, M.A., Rehrauer, W.M., O’Connor, S.L., Safdar, N., Pepperell, C.S., Dasu, T., Bhattacharyya, S., Kawaoka, Y., Koelle, K., O’Connor, D.H., Friedrich, T.C. (2020). **Revealing fine-scale spatiotemporal differences in SARS-CoV-2 introductions and spread.** *Nature Communications*, 11(5558). [10.1038/s41467-020-19346-z](https://doi.org/10.1038/s41467-020-19346-z). \[[PDF](https://m-a-martin.github.io/files/sars_cov2_wisconsin.pdf)\]
 
 ---
 
