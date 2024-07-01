@@ -55,7 +55,7 @@ SARS-CoV-2**. *Science*. [10.1126/science.abm4915](https://doi.org/10.1126/scien
 
 ---
 
-Babiker, A.∗, <span style="color:steelblue">Martin, M.A.</span>∗, Marvil, C., Bellman, S., Pettit III, R.A., Bradler, H.L., Sittleburg, V.D., Kunkes,
+Babiker, A.\*, <span style="color:steelblue">Martin, M.A.</span>\*, Marvil, C., Bellman, S., Pettit III, R.A., Bradler, H.L., Sittleburg, V.D., Kunkes,
 A., Ingersoll, J., Kraft, C.S., Read, T.D., Waggoner, J., Koelle, K., Piantadosi, A. (2022). **Unrecognized introductions of SARS-CoV-2 into the state of Georgia shaped the early epidemic**. *Virus Evolution*. [10.1093/ve/veac011](https://doi.org/10.1093/ve/veac011). \[[PDF](https://m-a-martin.github.io/files/sars_cov2_georgia.pdf)\]
 
 ---
