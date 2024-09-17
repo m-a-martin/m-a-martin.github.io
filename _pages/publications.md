@@ -14,9 +14,9 @@ author_profile: true
 \* contributed equally 
 
 ## 2024
-
+Kim, S., Kigozi, G., <span style="color:steelblue">Martin, M.A.</span>, Galiwango, R.M., Quicc, T.C., Redd, A.D., Ssekubugu, R., Bonsall, D., Ssemwanga, D., Rambaut, A., Herbeck, J.T., Reynolds, S.J., Foley, B., Abeler-Dörner, L., Fraser, C., Ratmann, O., Kagaayi, J., Laeyendecker, O., Grabowski, M.K. (2024). **Intra- and inter-subtype HIV diversity between 1994 and 2018 in southern Uganda: a longitudinal population-based study**. *Virus Evolution*. [10.1093/ve/veae065](https://doi.org/10.1093/ve/veae065). 
 ---
- <span style="color:steelblue">Martin, M.A.</span> , Berg, N., Koelle, K. (2023). **Influenza A genomic diversity during human infections underscores
+<span style="color:steelblue">Martin, M.A.</span>, Berg, N., Koelle, K. (2024). **Influenza A genomic diversity during human infections underscores
 the strength of genetic drift and the existence of tight transmission bottlenecks**. *Virus Evolution*.
 [10.1093/ve/veae042](https://doi.org/10.1093/ve/veae042). \[[PDF](https://m-a-martin.github.io/files/influenza_dvg.pdf)\]
 
