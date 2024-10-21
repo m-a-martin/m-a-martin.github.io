@@ -17,6 +17,7 @@ Prior to my doctoral training I earned a master's in epidemiology at the Harvard
 
 # News
 ## 2024
+- Our preprint on HIV multiple infections in the Rakai Community Cohort Study is now available. We develop a Bayesian model to identify MIs in whole genome deep-sequence data. We use the model to show that ~6% of viremic PLHIV harbor MIs at time of sampling and that the risk of MI is ~two-fold higher in high prevalence fishing communities. [PDF](https://www.medrxiv.org/content/10.1101/2024.10.21.24314869v1.full.pdf). 
 - We have considerably revised our work on the dynamics of HIV drug resistance in Rakai, Uganda in response to reviewer comments. Hopefully the revised version is more digestible for readers. [PDF](https://m-a-martin.github.io/files/rccs_resistance.pdf). 
 - Our work on the within- and between-host dynamics of influenza A virus defective viral genomes is now out in [Virus Evolution](https://doi.org/10.1093/ve/veae042) [\[PDF\]](https://m-a-martin.github.io/files/influenza_dvgs.pdf). This work was (mostly) completed during my doctoral research in [Dr. Katia Koelle](https://scholarblogs.emory.edu/koellelab/)'s group. 
 - I finally found the motivation to make a professional website. Thank you [Clif McKee](https://clifmckee.github.io) for the nudge. 
