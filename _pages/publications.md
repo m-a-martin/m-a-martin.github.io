@@ -17,8 +17,8 @@ author_profile: true
 <span style="color:steelblue">Martin, M.A.</span>, Brizzi, A., Xiaoyue, Xi, Galiwango, R.M., Moyo, Sikhulile, Ssemwanga, D., Blenkinsop, A., Redd,
 A.D., Abeler-Drner, L., Fraser, C., Reynolds, S.J., Quinn, T.C., Kagaayi, J., Bonsall, D., Serwadda, D.,
 Nakigozi, G., Kigozi, G., Grabowski, M.K.c, Ratmann, O.c, with the PANGEA-HIV Consortium and the Rakai
-Health Sciences Program. (2024). Quantifying prevalence and risk factors of HIV multiple infection in Uganda
-from population-based deep-sequence data. *PLOS Pathogens*. [10.1371/journal.ppat.1013065](https://doi.org/10.1371/journal.ppat.1013065
+Health Sciences Program. (2024). **Quantifying prevalence and risk factors of HIV multiple infection in Uganda
+from population-based deep-sequence data**. *PLOS Pathogens*. [10.1371/journal.ppat.1013065](https://doi.org/10.1371/journal.ppat.1013065
 ). \[[PDF](https://m-a-martin.github.io/files/hiv_mi.pdf)]
 
 ---
