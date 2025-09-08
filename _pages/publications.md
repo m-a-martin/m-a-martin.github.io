@@ -14,6 +14,12 @@ author_profile: true
 \* contributed equally 
 
 ## 2025
+<span style+"color:steelblue">Martin, M.A.</span>, Reynolds, S.J., Foley, B.T., Nalugoda, F., Quinn, T.C., Kemp, S.A., Nakalanzi, M., Kankaka, E.N.,
+Kigozi, G., Ssekubugu, R., Gupta, R.K., Abeler-D¨orner, L., Kagaayi, J., Ratmann, O., Fraser, C., Galiwango,
+R.M., Bonsall, D., Grabowski, M.K., on behalf of the PANGEA-HIV Consortium and the Rakai Health
+Sciences Program. (2024). HIV drug resistance during antiretroviral therapy scale-up in Uganda, 2012-19: a
+population-based, longitudinal study. *Lancet Microbe.* In press. [10.1101/2023.10.14.23297021](https://doi.org/10.1101/2023.10.14.23297021). \[[PDF](https://m-a-martin.github.io/files/hiv_resistance.pdf)]
+
 <span style="color:steelblue">Martin, M.A.</span>, Brizzi, A., Xiaoyue, Xi, Galiwango, R.M., Moyo, Sikhulile, Ssemwanga, D., Blenkinsop, A., Redd,
 A.D., Abeler-Drner, L., Fraser, C., Reynolds, S.J., Quinn, T.C., Kagaayi, J., Bonsall, D., Serwadda, D.,
 Nakigozi, G., Kigozi, G., Grabowski, M.K., Ratmann, O., with the PANGEA-HIV Consortium and the Rakai
