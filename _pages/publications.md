@@ -14,7 +14,7 @@ author_profile: true
 \* contributed equally 
 
 ## 2025
-<span style+"color:steelblue">Martin, M.A.</span>, Reynolds, S.J., Foley, B.T., Nalugoda, F., Quinn, T.C., Kemp, S.A., Nakalanzi, M., Kankaka, E.N.,
+<span style="color:steelblue">Martin, M.A.</span>, Reynolds, S.J., Foley, B.T., Nalugoda, F., Quinn, T.C., Kemp, S.A., Nakalanzi, M., Kankaka, E.N.,
 Kigozi, G., Ssekubugu, R., Gupta, R.K., Abeler-D¨orner, L., Kagaayi, J., Ratmann, O., Fraser, C., Galiwango,
 R.M., Bonsall, D., Grabowski, M.K., on behalf of the PANGEA-HIV Consortium and the Rakai Health
 Sciences Program. (2024). HIV drug resistance during antiretroviral therapy scale-up in Uganda, 2012-19: a
