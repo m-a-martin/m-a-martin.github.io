@@ -13,12 +13,21 @@ author_profile: true
 # Articles in peer-reviewed journals
 \* contributed equally 
 
+## 2026
+Gotthold, Z., Epstein-Shuman, A., Kigozi, G., Lamers, S.L., Ssempijja, V., Quiros, G., <span style="color:steelblue">Martin, M.A.</span>, Grabowski, M.K., Fernandez, R.E., Chang, L.W., Galiwango, R.M., Nakigozi, G., Reynolds, S.J., Scully, E., Redd, A.D., Laeyendecker, O. (2026). Pre-ART Vertical HIV-1 Transmission Risk in Uganda Varies by Sex of Child and Maternal Viral Subtype. *The Journal of Infectious Diseases*. [10.1093/infdis/jiag198](https://doi.org/10.1093/infdis/jiag198). \[[PDF](https://m-a-martin.github.io/files/hiv_vertical_transmission.pdf)]
+
+Shi, Y.K., <span style="color:steelblue">Martin, M.A.</span>, Weissman, D.B., Koelle, K. (2026). Genetic drift acts strongly on influenza virus populations within acute human infections but is obscured by other factors within acutely infected swine. *Virus Evolution*. [10.1093/ve/veag021](https://doi.org/10.1093/ve/veag021).  \[[PDF](https://m-a-martin.github.io/files/within_host_ne.pdf)]
+
+
+<span style="color:steelblue">Martin, M.A.</span}, Blenkinsop, A., Moffa, M., Reynolds, S.J., Nalugoda, F., Quinn, T.C., Kigozi, G., Ssekubugu, R., Gupta, R.K., Grayson, N.E., MacIntyre-Cockett, G., Kagaayi, J., Nakigozi, G., Abeler-Dörner, L., Fraser, C., Ratmann, O., Tobian, A.A.R., Laeyendecker, O., Moyo, S., Kennedy, C.E., Bonsall, D.\*, Galiwango, R.M.\*, Grabowski, M.K.\* (2026). Patterns of HIV-1 viral load suppression and drug resistance during the dolutegravir transition: a population-based longitudinal study (Editor's Choice). *Clinical Infectious Diseases*. [10.1093/cid/ciag161](https://doi.org/10.1093/cid/ciag161). \[[PDF](https://m-a-martin.github.io/files/hiv_resistance_dtg.pdf)]
+
+
 ## 2025
 <span style="color:steelblue">Martin, M.A.</span>, Reynolds, S.J., Foley, B.T., Nalugoda, F., Quinn, T.C., Kemp, S.A., Nakalanzi, M., Kankaka, E.N.,
 Kigozi, G., Ssekubugu, R., Gupta, R.K., Abeler-D¨orner, L., Kagaayi, J., Ratmann, O., Fraser, C., Galiwango,
 R.M., Bonsall, D., Grabowski, M.K., on behalf of the PANGEA-HIV Consortium and the Rakai Health
 Sciences Program. (2024). HIV drug resistance during antiretroviral therapy scale-up in Uganda, 2012-19: a
-population-based, longitudinal study. *Lancet Microbe.* In press. [10.1101/2023.10.14.23297021](https://doi.org/10.1101/2023.10.14.23297021). \[[PDF](https://m-a-martin.github.io/files/hiv_resistance.pdf)]
+population-based, longitudinal study. *Lancet Microbe.* [10.1016/j.lanmic.2025.101218](https://doi.org/10.1016/j.lanmic.2025.101218). \[[PDF](https://m-a-martin.github.io/files/hiv_resistance.pdf)]
 
 <span style="color:steelblue">Martin, M.A.</span>, Brizzi, A., Xiaoyue, Xi, Galiwango, R.M., Moyo, Sikhulile, Ssemwanga, D., Blenkinsop, A., Redd,
 A.D., Abeler-Drner, L., Fraser, C., Reynolds, S.J., Quinn, T.C., Kagaayi, J., Bonsall, D., Serwadda, D.,
