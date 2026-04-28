@@ -17,6 +17,8 @@ Prior to my doctoral training I earned a master's in epidemiology at the Harvard
 
 # News
 ## 2026
+- Our work on HIV viral load suppression and resistance during the dolutegravir transition has been published in [Clinical Infectious Diseases](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciag161/8516728) and selected as an Editor's Choice. The main findings remain similar to what was presented in the pre-print described below. [PDF](hppts://m-a-martin.github.io/files/hiv_resistance_dtg.pdf).
+  
 - I'll be presenting two poster presentations at the upcoming [2026 Conference on Retroviruses and Opportunistic Infections (CROI)](https://www.croiconference.org). The first, 903 - Quantifying Uncertainty in HIV Transmission Risk From Persons With Low-Level Viremia (February 24, 2:30 PM - 4:00 PM), is about ongoing work in collaboration with the Rakai Health Sciences Program (RHSP), Dr. M. Kate Grabowski at Johns Hopkins Medicine, and Dr. Alison Hill, now at UToronto, in which we are trying to estimate the true risk of infection from individuals presenting with low-level viremia (200 - 1,000 copies/mL). We are specifically focused on contexts sucha as sub-Saharan Africa in which viral load monitoring is rare. This work was also selectd for a short Themed Discussion presentation. Additionall, I'll be presenting 557 - Genetically Inferred Patterns of Transmitted HIV Pretreatment Resistance in Southern Uganda (February 23, 2:30 PM - 4:00 PM) on ongoing work with RHSP and the PANGEA-HIV consortium on genetic clustering patterns of resistance mutations in Rakai, Uganda. I'm looking forward to reconnecting with the rich HIV and OI research community at this meeting.
   
 ## 2025
