@@ -13,20 +13,3 @@ I completed my doctoral training in [Dr. Katia Koelle](https://scholarblogs.emor
 Prior to my doctoral training I earned a master's in epidemiology at the Harvard T.H. Chan School of Public Health where I did research in the [Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu) with Dr. Bill Hanage. Here I mainly focused on the [within-host genomic diversity of *M. tuberculosis*](https://doi.org/10.1099/mgen.0.000217). 
 
 
-- name: Bob Jones
-  role: Postdoctoral Researcher
-  image: bob.jpg
-  email: bob@university.edu
-  research: Robotics
-
-- name: Carol Lee
-  role: Graduate Student
-  image: carol.jpg
-  email: carol@university.edu
-  research: NLP
-
-- name: David Kim
-  role: Graduate Student
-  image: david.jpg
-  email: david@university.edu
-  research: ML Systems
