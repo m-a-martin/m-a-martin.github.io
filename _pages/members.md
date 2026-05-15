@@ -14,3 +14,41 @@ I am currently a post-doctoral research fellow as a part of the [Infectious Dise
 I completed my doctoral training in [Dr. Katia Koelle](https://scholarblogs.emory.edu/koellelab/)'s group in the [Population Biology, Ecology, and Evolution](https://biomed.emory.edu/PROGRAM_SITES/PBEE/index.html) graduate program. My work there was funded in part by an NIH NIAID F31 fellowship to study the evolution of influenza defective viral genomes within- and between-hosts. I also spent significant time researching SARS-CoV-2 during my doctoral training including [estimating the transmission bottleneck](https://doi.org/10.1126/scitranslmed.abh1803) and [phylodynamic epidemiological modeling](https://www.nature.com/articles/s41467-020-19248-0). 
 
 Prior to my doctoral training I earned a master's in epidemiology at the Harvard T.H. Chan School of Public Health where I did research in the [Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu) with Dr. Bill Hanage. Here I mainly focused on the [within-host genomic diversity of *M. tuberculosis*](https://doi.org/10.1099/mgen.0.000217). 
+
+{% assign roles = "Principal Investigator,Postdoctoral Researcher,Graduate Student,Undergraduate Student,Alumni" | split: "," %}
+
+{% for role in roles %}
+
+<h2>{{ role }}</h2>
+
+<div class="members-grid">
+
+{% for member in site.data.members %}
+  {% if member.role == role %}
+
+  <div class="member-card">
+    {% if member.image %}
+      <img src="/images/members/{{ member.image }}" alt="{{ member.name }}">
+    {% endif %}
+
+    <h3>
+      {% if member.website %}
+        <a href="{{ member.website }}">{{ member.name }}</a>
+      {% else %}
+        {{ member.name }}
+      {% endif %}
+    </h3>
+
+    <p>{{ member.research }}</p>
+
+    {% if member.email %}
+      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+    {% endif %}
+  </div>
+
+  {% endif %}
+{% endfor %}
+
+</div>
+
+{% endfor %}
