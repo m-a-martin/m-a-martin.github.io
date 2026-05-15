@@ -1,0 +1,24 @@
+- name: Alice Smith
+  role: Principal Investigator
+  website: https://alice-smith.com
+  image: alice.jpg
+  email: alice@university.edu
+  research: Computer Vision
+
+- name: Bob Jones
+  role: Postdoctoral Researcher
+  image: bob.jpg
+  email: bob@university.edu
+  research: Robotics
+
+- name: Carol Lee
+  role: Graduate Student
+  image: carol.jpg
+  email: carol@university.edu
+  research: NLP
+
+- name: David Kim
+  role: Graduate Student
+  image: david.jpg
+  email: david@university.edu
+  research: ML Systems
