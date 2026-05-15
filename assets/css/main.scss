@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.member-card img {
+  width: 100%;
+  max-width: 180px;
+  border-radius: 8px;
+}
+
+.member-card {
+  text-align: center;
+}
