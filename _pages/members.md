@@ -40,9 +40,14 @@ Prior to my doctoral training I earned a master's in epidemiology at the Harvard
     </h3>
 
     <p>{{ member.research }}</p>
-
     {% if member.email %}
       <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+      
+    {% if member.biography %}
+    <p>{{ member.biography }}</p>
+    {% endif %}
+
+    
     {% endif %}
   </div>
 
