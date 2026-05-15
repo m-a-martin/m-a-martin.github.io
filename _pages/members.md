@@ -45,7 +45,6 @@ Prior to my doctoral training I earned a master's in epidemiology at the Harvard
       
     {% if member.biography %}
     <p>{{ member.biography }}</p>
-    {% endif %}
 
     
     {% endif %}
