@@ -28,7 +28,6 @@ author_profile: false
       {% endif %}
     </h3>
 
-    <p>{{ member.research }}</p>
     {% if member.email %}
       <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
     {% endif %} <p>|</p>{% if member.cv %}
