@@ -29,9 +29,11 @@ author_profile: false
     </h3>
 
     <p>{% if member.email %}
-      <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+      <a href="mailto:{{ member.email }}">email</a>
     {% endif %} | {% if member.cv %}
-      <a href="/files/cv/{{ member.cv }}">CV</a>
+      <a href="/files/cv/{{ member.cv }}">cv</a>
+    {% endif %} | {% if member.gscholar %}
+      <a href="{{ member.gscholar}} ">g. scholar</a>
     {% endif %}</p>
     
     {% if member.biography %}
