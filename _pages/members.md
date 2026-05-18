@@ -31,7 +31,7 @@ author_profile: false
     {% if member.email %}
       <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
     {% endif %} <p>|</p>{% if member.email %}
-      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+      <p><a href="mailto:{{ member.email }}">{{ member.cv }}</a></p>
     {% endif %}
     
     {% if member.biography %}
