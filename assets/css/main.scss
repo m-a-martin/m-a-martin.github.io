@@ -45,6 +45,7 @@
   grid-template-columns: repeat(auto-fill, minmax(480px, 1fr));
   gap: 2rem;
   margin-bottom: 3rem;
+  
 }
 
 .member-card img {
@@ -55,4 +56,5 @@
 
 .member-card {
   text-align: left;
+  font-size: 0.75rem;
 }
