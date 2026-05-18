@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "home"
+    url: /about/
+    
   - title: "group members"
     url: /members/
     
