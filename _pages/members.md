@@ -28,11 +28,11 @@ author_profile: false
       {% endif %}
     </h3>
 
-    {% if member.email %}
-      <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
-    {% endif %} <p>|</p>{% if member.cv %}
+    <p>{% if member.email %}
+      <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+    {% endif %} | {% if member.cv %}
       <p><a href="/files/cv/{{ member.cv }}">CV</a></p>
-    {% endif %}
+    {% endif %}</p>
     
     {% if member.biography %}
     <p>{{ member.biography }}</p>
