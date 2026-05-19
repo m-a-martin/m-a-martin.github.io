@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-sars-cov-2-israel
+excerpt: 'Using phylodynamic analysis, we estimate that the basic reproduction number of SARS-CoV-2 was initially around 2.5, dropping by more than two-thirds following the implementation of social distancing measures.'
+date: 2020-11-02
+venue: 'Nature Communications'
+paperurl: 'https://m-a-martin.github.io/files/sars_cov2_israel.pdf'
+citation: 'Miller, D.*, Martin, M.A.*, Harel, N.*, Tirosh O.*, Kustin, T.*, Meir, M., Sorek, N., Gefen-Halevi, S., Amit, S., Vorontsov, O., Shaag, A., Wolf, D., Peretz, A., Shemer-Avni, Y., Roif-Kaminsky, D., Kopelman, N.M., Huppert, A., Koelle, K., Stern, A. (2020). &quot;Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel.&quot; <i>Nature Communications</i>, 11(5518). 10.1038/s41467-020-19248-0.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Full genome sequences are increasingly used to track the geographic spread and transmission dynamics of viral pathogens. Here, with a focus on Israel, we sequence 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. We find that travelers returning from the United States of America significantly contributed to viral spread in Israel, more than their proportion in incoming infected travelers. Using phylodynamic analysis, we estimate that the basic reproduction number of the virus was initially around 2.5, dropping by more than two-thirds following the implementation of social distancing measures. We further report high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 2-10% of infected individuals resulting in 80% of secondary infections. Overall, our findings demonstrate the effectiveness of social distancing measures for reducing viral spread.
