@@ -6,7 +6,7 @@ excerpt: 'Here, we used <i>M. tuberculosis</i> deep-sequence data to quantify wi
 date: 2018-10-11
 venue: 'Microbial Genomics'
 paperurl: 'https://m-a-martin.github.io/files/tb_within_host.pdf'
-citation: 'Martin, M.A., Lee, R.S., Cowley, L.A., Gardy, J.L., & Hanage, W.P. (2018). &quot;Within-host Mycobacterium
+citation: Martin, M.A., Lee, R.S., Cowley, L.A., Gardy, J.L., & Hanage, W.P. (2018). &quot;Within-host Mycobacterium
 tuberculosis diversity and its utility for inferences of transmission.&quot; <i>Microbial genomics</i>, 4(10).
 10.1099/mgen.0.000217.
 ---
