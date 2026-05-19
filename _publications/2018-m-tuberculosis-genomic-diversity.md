@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2018-m-tuberculosis-genomic-diversity
 excerpt: 'Here, we used <i>M. tuberculosis</i> deep-sequence data to quantify within-host genetic diversity and transmission of this diversity between putative transmission pairs.'
 date: 2018-10-11
+venue: 'Microbial Genomics'
+paperurl: 'https://m-a-martin.github.io/files/tb_within_host.pdf'
 
 ---
 
