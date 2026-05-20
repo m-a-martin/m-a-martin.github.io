@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Martin Group @ JHU BSPH"
+title                    : "martin group @ JHU BSPH"
 title_separator          : "-"
 name                     : &name "Michael A. Martin"
 description              : &description "personal description"
