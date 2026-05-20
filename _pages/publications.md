@@ -6,8 +6,29 @@ author_profile: false
 ---
 
  <br>
-# Articles in peer-reviewed journals
+# Select articles in peer-reviewed journals
 \* contributed equally 
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 ## 2026
 Gotthold, Z., Epstein-Shuman, A., Kigozi, G., Lamers, S.L., Ssempijja, V., Quiros, G., <span style="color:steelblue">Martin, M.A.</span>, Grabowski, M.K., Fernandez, R.E., Chang, L.W., Galiwango, R.M., Nakigozi, G., Reynolds, S.J., Scully, E., Redd, A.D., Laeyendecker, O. (2026). Pre-ART Vertical HIV-1 Transmission Risk in Uganda Varies by Sex of Child and Maternal Viral Subtype. *The Journal of Infectious Diseases*. [10.1093/infdis/jiag198](https://doi.org/10.1093/infdis/jiag198). \[[PDF](https://m-a-martin.github.io/files/hiv_vertical_transmission.pdf)]
