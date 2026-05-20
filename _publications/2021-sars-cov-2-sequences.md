@@ -6,7 +6,7 @@ excerpt: 'Analysis of viral sequences can tell us how SARS-CoV-2 spreads and ada
 date: 2021-01-29
 venue: 'Science'
 paperurl: https://m-a-martin.github.io/files/sars_cov2_insights.pdf
-citation: <span style="color:steelblue">Martin, M.A.</span>, VanInsberghe, D., Koelle, K. (2021). <b>Insights from SARS-CoV-2 sequences</b>. <i>Science</i>, 371(6528). [10.1126/science.abf3995](https://doi.org/10.1126/science.abf3995).
+citation: <span style="color:steelblue">Martin, M.A.</span>, VanInsberghe, D., Koelle, K. (2021). <b>Insights from SARS-CoV-2 sequences</b>. <i>Science</i>, 371(6528). <a href="https://doi.org/10.1126/science.abf3995">10.1126/science.abf3995</a>.
 ---
 
 As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has spread across the globe, so have efforts to sequence its RNA genome. More than 260,000 sequences are now available in public databases, about a year after the viral genome was first sequenced (1). These sequences and their associated meta- data have allowed researchers to estimate the timing of SARS-CoV-2 spillover into hu- mans, characterize the spread of the virus, and gauge virus adaptation to its new host. Such analyses rely on interpreting patterns of nucleotide changes that have occurred in the virus population over time and are brought into focus through the reconstruction of ge- nealogical relationships between sampled viruses that are depicted in phylogenetic trees.
