@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Select articles in peer-reviewed journals"
 permalink: /publications/
 author_profile: false
 ---
 
  <br>
-# Select articles in peer-reviewed journals
 \* contributed equally 
 
 <!-- New style rendering if publication categories are defined -->
