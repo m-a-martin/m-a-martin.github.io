@@ -35,9 +35,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=FasFd30AAAAJ&hl=en"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-9689-4066"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : michael-andr-martin
+  linkedin         : # URL
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
