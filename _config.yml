@@ -21,7 +21,7 @@ repository               : "m-a-martin/m-a-martin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lab_logo.png"
   name             : "Michael A. Martin, PhD"
   pronouns         : # example: "she/her"  
   bio              : ""
