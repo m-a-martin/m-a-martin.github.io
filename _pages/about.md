@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-author_profile: false
 sidebar: true
 redirect_from: 
   - /about/
