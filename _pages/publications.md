@@ -2,7 +2,7 @@
 layout: archive
 title: "Select articles in peer-reviewed journals"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
  <br>
