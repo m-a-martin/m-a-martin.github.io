@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# We parameterize quantitative models using molecular and epidemiological data to inform the public health repsonse to emerging and endemic pathogen threats.
 <h1 align="center">
 <em> We parameterize quantitative models using molecular and epidemiological data to inform the public health repsonse to emerging and endemic pathogen threats.</em>
 </h1>
