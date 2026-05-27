@@ -2,7 +2,7 @@
 layout: archive
 title: "Group members"
 permalink: /members/
-author_profile: false
+author_profile: true
 ---
 {% assign roles = "Principal Investigator" | split: "," %}
 
