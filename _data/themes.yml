@@ -1,10 +1,10 @@
 - name: Within-host pathogen evolution
   image: within_host_diversity.jpg
-  description: All pathogen genetic diversity observed at the host population scale must first be generated within individual hosts. We use pathogen deep-sequence data and evolutionary models to better understand the emergence and maintenance of within-host pathogen genetic diversity and impliciations for long-term pathogen evolution. 
+  description: All pathogen genetic diversity observed at the host population scale must first be generated within individual hosts. We use pathogen deep-sequence data and evolutionary models to better understand the emergence and maintenance of within-host pathogen genetic diversity and implications for long-term pathogen evolution. 
   publications:
   - short-title: HIV superinfections
     url: https://m-a-martin.github.io/publication/2025-hiv-mi
-  - short-title: Within-host influenza genomic diversit
+  - short-title: Within-host influenza genomic diversity
     url: https://m-a-martin.github.io/publication/2024-influenza-dvg
   - short-title: Within-host <i>M. tuberculosis</i> genetic diversity
     url: https://m-a-martin.github.io/publication/2018-m-tuberculosis-genomic-diversity
@@ -16,7 +16,7 @@
     url: https://m-a-martin.github.io/publication/2021-sars-cov-2-bottleneck
 - name: Population-scale pathogen dynamics and population genetics
   image: populations.jpg
-  description: As epidemiologists we are ultimately interested in pathogen dynamics at the host population scale. To this end we pair pathogen sequence data with detailed metadata and models of the underlying dynamics to understand the evolutionary (e.g. fitness evolution, treatment resistance) and exogeneous (e.g. climate, host behavior) factors driving pathogen poulations. Much of this work uses phylodynamic approaches but we also have ongoing work in developing tree-free methods. 
+  description: As epidemiologists we are ultimately interested in pathogen dynamics at the host population scale. To this end we pair pathogen sequence data with detailed metadata and models of the underlying dynamics to understand the evolutionary (e.g. fitness evolution, treatment resistance) and exogeneous (e.g. climate, host behavior) factors shaping pathogen population dynamics. Much of this work uses phylodynamic approaches but we also have ongoing work in developing tree-free methods. 
   publications:
   - short-title: HIV drug resistance during dolutegravir roll-out
     url: https://m-a-martin.github.io/publication/2025-hiv-resistance
@@ -26,4 +26,4 @@
     url: https://m-a-martin.github.io/publication/2020-sars-cov-2-israel
 - name: Ecological interactions in multi-pathogen systems
   image: multi_pathogens.jpg
-  description: Many pathogens share ecological niches e.g. sexually transmitted pathogens, respiratory pathogens, mosquito transmitted pathogens. However, little is known about how the direct and indirect interactions between co-circulating pathogens and the impact of interventions targeting one pathogen on the dynamics of their ecological neighbors. In this emerging research theme we are combining sequence data from co-circulating pathogens with ecological models to better understand these interactions. 
+  description: Many pathogens share ecological niches e.g. sexually transmitted pathogens, respiratory pathogens, mosquito transmitted pathogens. However, little is known about how the direct and indirect interactions between co-circulating pathogens and the impact of interventions targeting one pathogen on the dynamics of their ecological neighbors. In this emerging research theme, we are combining sequence data from co-circulating pathogens with ecological models to better understand these interactions. 
