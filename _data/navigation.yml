@@ -9,5 +9,8 @@ main:
     
   - title: "publications"
     url: /publications/
+
+   - title: "news"
+    url: /news/
     
     
