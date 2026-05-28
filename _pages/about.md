@@ -29,7 +29,7 @@ The Martin Group @ JHU BSPH is a computational biology research group in the [De
       {% if theme.publications %}
       <ul>
         {% for pub in theme.publications %}
-        <li>{{ pub.name }}</li>
+        <li>{{ pub.short-title }}</li>
       </ul>
       {% endif %}
     </div>
