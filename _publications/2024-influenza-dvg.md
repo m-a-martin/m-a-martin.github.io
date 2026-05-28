@@ -1,7 +1,7 @@
 ---
 title: "Influenza A genomic diversity during human infections underscores the strength of genetic drift and the existence of tight transmission bottlenecks"
 collection: publications
-permalink: /publication/2018-m-tuberculosis-genomic-diversity
+permalink: /publication/2024-influenza-dvg
 excerpt: 'Here, we used <i>M. tuberculosis</i> deep-sequence data to quantify within-host genetic diversity and transmission of this diversity between putative transmission pairs.'
 date: 2024-06-01
 venue: 'Virus Evolution'
