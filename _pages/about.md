@@ -14,33 +14,6 @@ The Martin Group @ JHU BSPH is a computational biology research group in the [De
 
 ## Broadly, most of our work falls into one of the following themes: 
 
-<div class="theme-grid">
-{% for theme in site.data.themes %}
-
-  <div class="theme-card">
-    {% if theme.name %}
-    <h3> {{ theme.name }} </h3>
-    {% endif %}
-
-    {% if theme.description %}
-    <p>{{ theme.description }} </p>
-    {% endif %}
-
-    {% if theme.publications}
-    <b>relevant publications:</b>
-    <ul>
-    {% for publication in theme.publications %}
-      <li>{{ publication.short-title }}</li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-    
-  </div>
-
-{% endfor %}
-
-</div>
-
 # News
 ## 2026
 - Starting June 1st, 2026, I will be transitioning to an Assistant Professor role in the [Department of Epidemiology](https://publichealth.jhu.edu/departments/epidemiology) at the Johns Hopkins Bloomberg School of Public Health where I'll be continuing as a member of the wonderful [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu) group. I'm very excited to continue with my ongoing collaborations at the school and forge new ones in the department and beyond. Over the next few weeks I will be (haphazardly) transitioning this website away from a personal website and towards a group website.
