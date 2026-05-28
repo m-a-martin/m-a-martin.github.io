@@ -1,3 +1,3 @@
-- name: within-host pathogen evolution
+- name: Within-host pathogen evolution
   image: m_a_martin.jpg
   Description: All pathogen genetic diversity observed at the host population scale must first be generated within individual hosts. We use pathogen deep-sequence data and evolutionary models to better understand the emergence and maintenance of within-host pathogen genetic diversity and impliciations for long-term pathogen evolution. 
