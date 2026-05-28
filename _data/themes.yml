@@ -1,3 +1,6 @@
 - name: Within-host pathogen evolution
   image: within_host_diversity.jpg
   description: All pathogen genetic diversity observed at the host population scale must first be generated within individual hosts. We use pathogen deep-sequence data and evolutionary models to better understand the emergence and maintenance of within-host pathogen genetic diversity and impliciations for long-term pathogen evolution. 
+- name: Cross-scales pathogen diversity
+  image: cross_scales.jpg
+  description: Pathogen genetic diversity generated within-hosts must transit in order to persist at the population scale. We fit models to pathogen deep-sequence and well-resolved epidemiological data to better understand the biological dynamics governing these cross-scales dynamics.
