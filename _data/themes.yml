@@ -24,3 +24,6 @@
     url: https://m-a-martin.github.io/publication/2022-sars-cov-2-georgia
   - short-title: SARS-CoV-2 superspreading
     url: https://m-a-martin.github.io/publication/2020-sars-cov-2-israel
+- name: Ecological interactions in multi-pathogen systems
+  image: multi_pathogens.jpg
+  description: Many pathogens share ecological niches e.g. sexually transmitted pathogens, respiratory pathogens, mosquito transmitted pathogens. However, little is known about how the direct and indirect interactions between co-circulating pathogens and the impact of interventions targeting one pathogen on the dynamics of their ecological neighbors. In this emerging research theme we are combining sequence data from co-circulating pathogens with ecological models to better understand these interactions. 
