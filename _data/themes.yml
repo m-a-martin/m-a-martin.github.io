@@ -10,4 +10,17 @@
     url: https://m-a-martin.github.io/publication/2018-m-tuberculosis-genomic-diversity
 - name: Cross-scales pathogen diversity
   image: cross_scales.jpg
-  description: Pathogen genetic diversity generated within-hosts must transit in order to persist at the population scale. We fit models to pathogen deep-sequence and well-resolved epidemiological data to better understand the biological dynamics governing these cross-scales dynamics.
+  description: Pathogen genetic diversity generated within-hosts must transmit in order to persist at the population scale. We fit models to pathogen deep-sequence and well-resolved epidemiological data to better understand the biological dynamics governing these cross-scales dynamics.
+  publications:
+  - short-title: SARS-CoV-2 bottleneck
+    url: https://m-a-martin.github.io/publication/2021-sars-cov-2-bottleneck
+- name: Population-scale pathogen dynamics and population genetics
+  image: populations.jpg
+  description: As epidemiologists we are ultimately interested in pathogen dynamics at the host population scale. To this end we pair pathogen sequence data with detailed metadata and models of the underlying dynamics to understand the evolutionary (e.g. fitness evolution, treatment resistance) and exogeneous (e.g. climate, host behavior) factors driving pathogen poulations. Much of this work uses phylodynamic approaches but we also have ongoing work in developing tree-free methods. 
+  publications:
+  - short-title: HIV drug resistance during dolutegravir roll-out
+    url: https://m-a-martin.github.io/publication/2025-hiv-resistance
+  - short-title: SARS-CoV-2 dynamics in Georgia, USA
+    url: https://m-a-martin.github.io/publication/2022-sars-cov-2-georgia
+  - short-title: SARS-CoV-2 superspreading
+    url: https://m-a-martin.github.io/publication/2020-sars-cov-2-israel
