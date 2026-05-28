@@ -58,3 +58,22 @@
 .member-card {
   text-align: left;
 }
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+  
+}
+
+.theme-card img {
+  width: 100%;
+  max-width: 240px;
+  border-radius: 8px;
+  border: 1px solid $border-color;
+}
+
+.theme-card {
+  text-align: left;
+}
