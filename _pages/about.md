@@ -7,10 +7,39 @@ redirect_from:
   - /about.html
 ---
 <h1 align="center">
-<em> We parameterize quantitative models using molecular and epidemiological data to inform the public health repsonse to emerging and endemic pathogenic threats.</em>
+<em> We build quantitative models informed by molecular and epidemiological data to guide the public health repsonse to emerging and endemic pathogenic threats.</em>
 </h1>
 
 The Martin Group @ JHU BSPH is a computational biology research group in the [Department of Epidemiology](https://publichealth.jhu.edu/departments/epidemiology) at the Johns Hopkins Bloomberg School of Public Health. Broadly, our work aims to reduce the global burden of infectious diseases. More specifically, we use pathogen molecular (particularly genomic) data and quantitative mathematical models to better understand the biological, environmental, and sociological drivers of pathogen population dynamics to inform the public health response to endemic and emerging infectious threats. We are a part of the [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu) group at JHU and collaborate broadly throughout the university and beyond. 
+
+## Broadly, most of our work falls into one of the following themes: 
+
+<div class="theme-grid">
+{% for theme in site.data.themes %}
+
+  <div class="theme-card">
+    {% if theme.name %}
+    <h3> {{ theme.name }} </h3>
+    {% endif %}
+
+    {% if theme.description %}
+    <p>{{ theme.description }} </p>
+    {% endif %}
+
+    {% if theme.publications}
+    <b>relevant publications:</b>
+    <ul>
+    {% for publication in theme.publications %}
+      <li>{{ publication.short-title }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    
+  </div>
+
+{% endfor %}
+
+</div>
 
 # News
 ## 2026
